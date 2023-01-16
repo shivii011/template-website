@@ -1,0 +1,53 @@
+/* .button{
+    transition: .8s;
+}
+.button:hover{
+transform: rotatey(360deg);
+ cursor: pointer;
+ transition: top 0.7s;
+} */
+
+.lining{
+  animation-name: spin;
+  animation-duration: 6000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+  animation-direction: reverse;
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(0deg);
+    }
+}
+
+.spine{
+  animation-name: spin;
+  animation-duration: 6000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+.textBottom{
+   animation: wipe-enter 2s; 
+   animation-iteration-count:inherit;
+}
+@keyframes wipe-enter {
+    from {
+        opacity: .10;
+        padding-top: 100px;
+    }
+    to{
+        opacity: 1;
+    padding-top: 0;
+    }
+}
