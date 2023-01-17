@@ -35,7 +35,7 @@ function HomeSpine() {
             </li>
         </ul>
     </div>
-    <Button text="How we can help" className="button text-blue bg-yellow mt-[4rem] w-[15rem] mx-auto"/>
+    <Button text="How we can help" className="button text-blue bg-yellow pt-4 w-[15rem] mx-auto"/>
 </div>
             </div>
         </div>
