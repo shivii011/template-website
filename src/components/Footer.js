@@ -16,7 +16,7 @@ function Footer() {
            <div className=' text-4xl text-blue justify-between mb-[4rem] '>
           Ready to live life to the fullest again? Get in touch!
          </div>
-         <Button text="Start your consultation" className="text-white text-sm w-[14.5rem] mt-[3rem] bg-blue mx-auto "/>
+         <Button text="Start your consultation" className="text-white text-sm w-[18rem] mt-[3rem] bg-blue mx-auto "/>
          <div className=' text-lg text-blue p-1 mt-[1.5rem] font-medium'>817-421-1066</div>
                 </div>
             </div>

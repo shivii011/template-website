@@ -9,8 +9,8 @@ function HomeSpine() {
             </div>
             <div className=' justify-center block lg:flex flex-row-reverse text-blue '>
 <div className='relative h-[35rem] sm:h-[50rem] col-span-3 m-2'>
-<img className='spine absolute z-10 -inset-y-[2.6rem] left-[19rem] h-[5rem] sm:left-[23rem] md:left-[29rem] lg:left-[6rem] lg:-top-[3rem] md:h-[10rem]' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/615219e6b94b49468140b9ca_graphic-circular-spine.svg' alt=''/>
-<img className='lining absolute z-20 -inset-y-[1.5rem] left-[20rem] h-[3rem] sm:left-[24.3rem] md:left-[8rem] md:-top-[1.2rem] md:h-[6rem]' src="https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/61521a055d21652c872b3fab_graphic-circular-dash.svg" alt=''/>
+<img className='spine absolute z-10 -inset-y-[2.6rem] left-[18rem] h-[5rem] sm:left-[23rem] md:left-[29rem] lg:left-[6rem] lg:-top-[3rem] md:h-[10rem]' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/615219e6b94b49468140b9ca_graphic-circular-spine.svg' alt=''/>
+<img className='lining absolute z-20 -inset-y-[1.5rem] left-[19rem] h-[3rem] sm:left-[24.3rem] md:left-[8rem] md:-top-[1.2rem] md:h-[6rem]' src="https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/61521a055d21652c872b3fab_graphic-circular-dash.svg" alt=''/>
 
 
     <img className=' pr-6 h-[32rem] sm:h-[40rem] sm:w-[70%] lg:h-auto lg:w-[80%] lg:ml-auto' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/61647df68010cc7b2c5f2f85_image-home-spine.jpg' alt=''/>
