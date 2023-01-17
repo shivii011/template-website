@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import MenuIcon from '@mui/icons-material/Menu';
 import Button from './Shared/Button';
 import {NavbarBarItems}from '../Utils/NavData';
-import PhoneIcon from '@mui/icons-material/Phone';
-
 function NavigationSmall(className) {
   const [isActive , setIsActive]= useState(false)
   const handleClick=()=>{
