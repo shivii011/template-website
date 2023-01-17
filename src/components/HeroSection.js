@@ -1,5 +1,4 @@
 import React from 'react'
-import { NavbarBarItems } from '../Utils/NavData'
 import Navbar from './Navbar'
 import Button from './Shared/Button'
 import AOS from 'aos';
