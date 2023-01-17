@@ -9,9 +9,9 @@ function Footer() {
   return (
     <div className=" bg-darkWhite">
         <div className='sm:flex items-stretch relative'>
-        <img className='w-[50%] sm:w-[30%]' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/616481ffd3bd5b50a5771769_image-footer-left.jpg' alt=''/>
-         <div className=' max-w-[55rem] sm:absolute sm:left-[15%]  md:left-[20%] md:right-[20%] lg:left-[25%] lg:rigth-[30%] z-20'>
-         <img className=' -rotate-90' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/615297ae9d464981d9aa3a3d_graphic-dashes-footer.svg' alt=''/>
+        <img className='w-[50%] sm:w-[30%] lg:w-[33%] sm:h-[25rem] md:h-[35rem]' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/616481ffd3bd5b50a5771769_image-footer-left.jpg' alt=''/>
+         <div className='md:mt-[5rem] max-w-[33%rem] sm:absolute  sm:left-[15%]  md:left-[20%] md:right-[20%] lg:left-[25%] lg:right-[30%] z-20'>
+         <img className=' -rotate-90 md:rotate-0 asbsolute z-10 -translate-y-[10rem] w-[30rem] mx-auto text-center' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/615297ae9d464981d9aa3a3d_graphic-dashes-footer.svg' alt=''/>
           <div className='my-auto -translate-y-[8rem] bg-yellow w-[90%] mx-auto py-[6rem] '>
            <div className=' text-4xl text-blue justify-between mb-[4rem] '>
           Ready to live life to the fullest again? Get in touch!
@@ -20,7 +20,7 @@ function Footer() {
          <div className=' text-lg text-blue p-1 mt-[1.5rem]'>817-421-1066</div>
                 </div>
             </div>
-        <img className='w-[50%] sm:w-[30%] z-10 -translate-y-[10rem] ml-auto' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/6165e92d657296d995455282_image-footer-right-p-800.jpeg' alt=''/>
+        <img className='w-[50%] sm:w-[30%] lg:w-[33%] z-10 -translate-y-[10rem] md:translate-y-[3rem] ml-auto' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/6165e92d657296d995455282_image-footer-right-p-800.jpeg' alt=''/>
         </div>
         
         

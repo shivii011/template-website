@@ -6,9 +6,9 @@ function NavigatonLarge(className) {
 < div className = {`${className} hidden lg:flex justify-between px-[4%] py-[3%]`}  >
     <img className='' src='https://uploads-ssl.webflow.com/614a999fd87898600ee2bc39/6151f03dd3c9f00ec84317f5_logo-horizontal-white.svg' alt=''/>
 < nav className = ' flex text-white'>
-        {NavbarBarItems.map((item)=>(
+        {NavbarBarItems.map((item,i)=>(
             <ul className="justify-around flex">
-                <li className=' px-4 py-5 cursor-pointer text-base font-bold'>
+                <li key={i}  className=' px-4 py-5 cursor-pointer text-base font-bold'>
             {item}
         </li>
             </ul>
